@@ -1,0 +1,21 @@
+{
+  "name": "javascript-mocking-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Justin Zimmerman <justin.richard.zimmerman@gmail.com> (https://justinzimmerman.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "create-jest-runner": "^0.4.1",
+    "glob": "^7.1.3",
+    "jest": "^23.6.0"
+  }
+}
